@@ -195,6 +195,7 @@
 
 - [ ] ตรวจบัญชี ChatGPT / Claude / Gemini / NotebookLM ที่จะสาธิต
 - [ ] เตรียม PDF ตัวอย่างสำหรับ Hands-on #1 (Session 5)
+http://kmcenter.rid.go.th/kmc14/gis_km14/gis_km14(39).pdf
 - [ ] เตรียม student_scores.csv สำหรับ Hands-on #3 (Session 7)
 - [ ] เตรียม prompt ที่ทดสอบแล้วว่าให้ผลดี + prompt สาธิตข้อจำกัด (hallucinated citations)
 - [ ] จับ screenshot ทุกผลิตภัณฑ์ + เตรียมผลลัพธ์ demo สำรอง (กันเน็ตล่ม)
