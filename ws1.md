@@ -3,6 +3,8 @@
 ## 🔨 กิจกรรมที่ 1 — AI Study Pack
 **เวลา 15 นาที | ใช้เอกสารเรียนของตัวเอง 1 ไฟล์**
 
+download เอกสาร [text](http://pad.moi.go.th/images/form-download/2.%20%E0%B8%82%E0%B9%89%E0%B8%AD%E0%B8%A1%E0%B8%B9%E0%B8%A5%E0%B9%80%E0%B8%81%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A7%E0%B8%81%E0%B8%B1%E0%B8%9A%20sdgs%20(17goal%20169target%20248kpi).pdf)
+
 ### ขั้นที่ 1 — สรุปแบบกำหนดเป้าหมาย
 อัปโหลดไฟล์ แล้วก๊อบ Prompt นี้:
 
